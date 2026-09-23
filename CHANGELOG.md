@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-17)
+## Unreleased (2026-09-23)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`82ee27d`](https://github.com/stdlib-js/stdlib/commit/82ee27d7a9610ee0f83b9893f613de4b3e11b6e6) - **bench:** generate arrays with `NaN` values [(#14402)](https://github.com/stdlib-js/stdlib/pull/14402) _(by Ujjwal Verma)_
 -   [`86186d0`](https://github.com/stdlib-js/stdlib/commit/86186d0a41f799a4749035eba84a45f2ba3981c2) - **docs:** fix invalid `NaN` literal in C examples [(#14353)](https://github.com/stdlib-js/stdlib/pull/14353) _(by Philipp Burckhardt)_
 -   [`523702e`](https://github.com/stdlib-js/stdlib/commit/523702ee496d799a51ca3e1423e9ab9b4c39ad9a) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f9c3112`](https://github.com/stdlib-js/stdlib/commit/f9c311276353b8af3d139d5c98bc584823d4b80e) - **feat:** add C implementation for `stats/base/ndarray/dnanmeanwd` [(#14225)](https://github.com/stdlib-js/stdlib/pull/14225) _(by Ujjwal Verma, Athan Reines)_
